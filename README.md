@@ -3,43 +3,40 @@ Martyr2’s Mega Project List
 
 Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 
-**Note**: If you fork this repo to solve these projects in any language of your choice, please remove all my code, and start from scratch; you'll benefit a lot. Do ***not*** send pull requests.
 
 Some details:
 
 * I will use Python to solve these. Why? Because I want to learn the language quickly.
 * I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
 
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
 
-**Note**: I have't ready any problem while creating this repo. I'll read them as I start solving the problems. Hence, there is no prior curation or filtering. Keeps things spicy. :)
 
 ==============================
 
 Numbers
 ---------
 
-[**Find PI to the Nth Digit**](https://github.com/thekarangoel/Projects/blob/master/Numbers/pi.py) – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/thekarangoel/Projects/blob/master/Numbers/fibonacci.py) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**Prime Factorization**](https://github.com/thekarangoel/Projects/blob/master/Numbers/prime.py) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/thekarangoel/Projects/blob/master/Numbers/next_prime.py) – Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/thekarangoel/Projects/blob/master/Numbers/tile.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-[**Change Return Program**](https://github.com/thekarangoel/Projects/blob/master/Numbers/change.py) – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+**Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-[**Binary to Decimal and Back Converter**](https://github.com/thekarangoel/Projects/blob/master/Numbers/binary_decimal.py) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+**Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-[**Calculator**](https://github.com/thekarangoel/Projects/blob/master/Numbers/calc.py) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+**Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 **Unit Converter (temp, currency, volume, mass and more)** – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
